@@ -1,10 +1,10 @@
 {
-  "name": "peer2profit",
-  "description": "Deploy peer2profit",
-  "keywords": ["peer2profit"],
+  "name": "proxytesting",
+  "description": "Deploy pproxytesting",
+  "keywords": ["proxytesting"],
   "env": {
     "EMAIL": {
-      "description": "peer2profit email",
+      "description": "proxytesting email",
       "value": "thoufeeqisin@gmail.com",
       "required": true
     }
